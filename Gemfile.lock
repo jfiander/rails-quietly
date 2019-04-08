@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    rails-quietly (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rails-quietly!
+
+BUNDLED WITH
+   2.0.0
