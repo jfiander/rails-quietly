@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name          = 'rails-quietly'
-  s.version       = '0.0.1'
+  s.version       = '0.0.2'
   s.date          = '2019-04-08'
   s.summary       = 'Simple wrapper for suppressing logging in Rails'
   s.description   = 'A simple wrapper to suppress logging in various ways in Rails apps.'
@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.authors       = ['Julian Fiander']
   s.email         = 'julian@fiander.one'
   s.require_paths = %w[lib]
+  s.files         = `git ls-files`.split("\n")
 end
