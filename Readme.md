@@ -22,7 +22,7 @@ In `config/applicaiton.rb`, include the following:
 
 ```ruby
 require 'quietly'
-include Quietly
+include Quietly::Local
 ```
 
 This puts the module into global scope.

@@ -1,7 +1,9 @@
+# frozen_string_literal: true
+
 Gem::Specification.new do |s|
   s.name          = 'rails-quietly'
-  s.version       = '0.0.3'
-  s.date          = '2019-04-08'
+  s.version       = '0.0.4'
+  s.date          = '2019-06-20'
   s.summary       = 'Simple wrapper for suppressing logging in Rails'
   s.description   = 'A simple wrapper to suppress logging in various ways in Rails apps.'
   s.homepage      = 'http://rubygems.org/gems/rails-quietly'
