@@ -1,5 +1,7 @@
 # Rails, Quietly
 
+[![Gem Version](https://img.shields.io/gem/v/usps_flags.svg)](https://rubygems.org/gems/rails-quietly)
+
 A simple wrapper to suppress logging in various ways in Rails apps.
 
 ## Installation
